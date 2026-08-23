@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to analyze Zomato food delivery d
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 The **Zomato Food Delivery Analytics Dashboard** provides a comprehensive view of food delivery operations and customer purchasing behavior.
 
@@ -14,7 +14,7 @@ The project demonstrates practical skills in **Power BI, Power Query, DAX, data 
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 
 Food delivery platforms generate large amounts of transactional and customer data. However, raw data alone makes it difficult to quickly understand:
 
@@ -30,7 +30,7 @@ The objective of this dashboard is to convert this data into an **interactive bu
 
 ---
 
-## Goal of the Dashboard
+## 🎯 Goal of the Dashboard
 
 The primary objectives of this dashboard are to:
 
@@ -46,7 +46,7 @@ The primary objectives of this dashboard are to:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 The dashboard was developed using the following tools and technologies:
 
@@ -59,7 +59,7 @@ The dashboard was developed using the following tools and technologies:
 
 ---
 
-## Data Model
+## 📂 Data Model
 
 The dashboard uses multiple tables to organize and analyze the data:
 
@@ -99,7 +99,7 @@ These tables work together through the Power BI data model to enable cross-filte
 
 ## 📊 Dashboard Features
 
-### Key Performance Indicators
+### 🔢 Key Performance Indicators
 
 The dashboard provides high-level KPIs for:
 
@@ -117,7 +117,7 @@ A column chart shows **total quantity by month**, helping identify changes in fo
 
 ---
 
-### Food Type vs Customer Membership
+### 🍱 Food Type vs Customer Membership
 
 A matrix visual compares **food types against customer membership types** based on transaction volume.
 
@@ -129,7 +129,7 @@ This helps identify relationships between:
 
 ---
 
-### Delivery Status Analysis
+### 🚚 Delivery Status Analysis
 
 A donut chart analyzes transactions based on **delivery status**.
 
@@ -137,7 +137,7 @@ This provides an overview of different delivery outcomes and helps evaluate deli
 
 ---
 
-### Payment Method Analysis
+### 💳 Payment Method Analysis
 
 A funnel chart compares transactions across different **payment methods**.
 
@@ -145,7 +145,7 @@ This helps identify customer payment preferences and understand how transactions
 
 ---
 
-### Food-wise Quantity Analysis
+### 🍔 Food-wise Quantity Analysis
 
 A bar chart ranks food items based on **total quantity ordered**.
 
@@ -153,7 +153,7 @@ This allows users to identify high-demand food items and understand customer pur
 
 ---
 
-### Transaction Trend Analysis
+### 📅 Transaction Trend Analysis
 
 A line chart analyzes **transactions across years and months**, allowing users to identify:
 
@@ -164,20 +164,20 @@ A line chart analyzes **transactions across years and months**, allowing users t
 
 ---
 
-## Interactive Filters
+## 🎛️ Interactive Filters
 
 The dashboard includes multiple slicers that allow users to dynamically explore the data:
 
-*  Month
-*  Restaurant Type
-*  Payment Method
-*  Customer Membership Type
+* 📅 Month
+* 🍽️ Restaurant Type
+* 💳 Payment Method
+* 👤 Customer Membership Type
 
 These filters allow users to perform focused analysis and compare different customer and business segments.
 
 ---
 
-##  Key Business Insights
+## 💡 Key Business Insights
 
 The dashboard can help stakeholders answer questions such as:
 
@@ -191,7 +191,7 @@ The dashboard can help stakeholders answer questions such as:
 
 ---
 
-##  Business Impact
+## 📈 Business Impact
 
 ### Customer Insights
 
@@ -219,19 +219,7 @@ Provide stakeholders with an interactive analytical tool for making data-driven 
 
 ---
 
-## 📸 Dashboard Preview
-
-### Main Dashboard
-
-Add your dashboard screenshot here:
-
-```markdown
-![Zomato Food Delivery Dashboard](./Screenshots/Zomato_Food_Delivery_Dashboard.png)
-```
-
----
-
-## Project Structure
+## 📁 Project Structure
 
 ```text
 Zomato-Food-Delivery-Dashboard/
@@ -246,7 +234,7 @@ Zomato-Food-Delivery-Dashboard/
 
 ---
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 Through this project, I demonstrated practical knowledge of:
 
@@ -266,4 +254,5 @@ Through this project, I demonstrated practical knowledge of:
 
 ---
 
-## Screenshots / Demos Show what the dashboard looks like. Example: ![Dashboard Preview](https:.png) customise the readme accorind to my project
+## 📸 Dashboard Preview
+<img src="https://[github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/0df38739a2f1883eff8ab307c9c22838fd4b36e9/Dashboard.jpg.png](https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/1018946c5bdaa482df4c2e21febdc93cbd5f65c3/01-Zomato_Food_Delivery_Dashboard/Screenshot%202026-08-19%20231715.png)" alt="Image Description" width="600">
