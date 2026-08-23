@@ -255,4 +255,4 @@ Through this project, I demonstrated practical knowledge of:
 ---
 
 ## 📸 Dashboard Preview
-<img src="https://[github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/0df38739a2f1883eff8ab307c9c22838fd4b36e9/Dashboard.jpg.png](https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/1018946c5bdaa482df4c2e21febdc93cbd5f65c3/01-Zomato_Food_Delivery_Dashboard/Screenshot%202026-08-19%20231715.png)" alt="Image Description" width="600">
+<img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/1018946c5bdaa482df4c2e21febdc93cbd5f65c3/01-Zomato_Food_Delivery_Dashboard/Screenshot%202026-08-19%20231715.png" alt="Image Description" width="600">
