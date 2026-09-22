@@ -1,5 +1,5 @@
 ## 📸 Dashboard Preview
-<img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/e928a46baebb57216b3b905ab84f77a5e019a2b3/Ecommerce_Dashboard/Ecommerce_Dashboard.png" alt="Image Description" width="800">
+<img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/e928a46baebb57216b3b905ab84f77a5e019a2b3/Ecommerce_Dashboard/Ecommerce_Dashboard.png" alt="Image Description" width="1000">
 
 # 🛒 E-Commerce Sales Analytics Dashboard
 
@@ -217,7 +217,7 @@ Used to create calculated measures and KPIs such as:
 📚 What I Learned
 
 Through this project, I gained practical experience in:
-
+```text
 Data cleaning and transformation
 Power Query
 Data modeling
@@ -229,19 +229,20 @@ Interactive dashboard development
 Sales analysis
 Profitability analysis
 Extracting business insights from raw data
-
+```
 ---
 
 
+## 📁 Repository Structure
+
+```text
 E-Commerce-Sales-Analytics/
 │
-├── 📊 Ecommerce_Sales_Dashboard.pbix
-│
-├── 📄 Ecommerce_Sales_Dataset.csv
-│
-├── 🖼️ Ecommerce_Dashboard.png
-│
-└── 📖 README.md
+├── Ecommerce_Sales_Dashboard.pbix
+├── Ecommerce_Sales_Dataset.csv
+├── Ecommerce_Dashboard.png
+└── README.md
+```
 
 ---
 
