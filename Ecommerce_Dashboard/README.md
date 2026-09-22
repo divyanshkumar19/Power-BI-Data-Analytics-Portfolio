@@ -238,15 +238,15 @@ Extracting business insights from raw data
 ```text
 E-Commerce-Sales-Analytics/
 │
-├── Ecommerce_Sales_Dashboard.pbix
-├── Ecommerce_Sales_Dataset.csv
 ├── Ecommerce_Dashboard.png
+├── Ecommerce_Sales_Dashboard.pbix
+├── Ecommerce_Sales_Dataset.xlsx
 └── README.md
 ```
 
 ---
 
-🎓 Project Type
+##🎓 Project Type
 
 Data Analytics / Business Intelligence Project
 
