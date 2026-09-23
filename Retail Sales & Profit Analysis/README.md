@@ -23,6 +23,7 @@ To solve this problem, I developed an interactive **Retail Sales & Profit Analys
 The dashboard transforms raw retail transaction data into meaningful KPIs, visualizations, and business insights.
 
 ---
+
 📷 Dashboard Preview
 <img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/f0e3dea7c55bae1c4555a22307b5789aa94facf7/Retail%20Sales%20%26%20Profit%20Analysis/Retail_sales_dashboard.jpeg" alt="Image Description" width="1000">
 
