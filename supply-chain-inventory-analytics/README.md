@@ -19,6 +19,11 @@ The main purpose of this project is to help businesses answer questions such as:
 
 ---
 
+## 📸 Dashboard Preview
+<img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/73db11f05eac86d201aba90e809f2d2947aaabe4/supply-chain-inventory-analytics/Supply_Chain_Dashboard.png" alt="Image Description" width="1000">
+
+---
+
 # 🎯 Business Problem
 
 Supply chain operations generate a large amount of data related to products, inventory, suppliers, sales, purchasing costs, selling prices, and deliveries.
