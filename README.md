@@ -9,3 +9,6 @@ A professional portfolio of Power BI projects focused on data analysis, visualiz
 
 # Retail_Sales_Dashboard
 <img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/f0e3dea7c55bae1c4555a22307b5789aa94facf7/Retail%20Sales%20%26%20Profit%20Analysis/Retail_sales_dashboard.jpeg" alt="Image Description" width="600">
+
+# Supply-chain-inventory-analytics
+<img src="https://github.com/divyanshkumar19/Power-BI-Data-Analytics-Portfolio/blob/73db11f05eac86d201aba90e809f2d2947aaabe4/supply-chain-inventory-analytics/Supply_Chain_Dashboard.png" alt="Image Description" width="600">
